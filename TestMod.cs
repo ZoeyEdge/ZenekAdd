@@ -28,13 +28,13 @@ namespace ZenekAdd
 		
 	    public override void Load()
         {
-			/*
+			
             if (!Main.dedServ) 
 			{ // do not run this code on the server
                 AddMusicBox(GetSoundSlot(SoundType.Music, "Sounds/Music/KhaarTheme"), ItemType("KhaarMusicBox"), TileType("KhaarMusicBox"));
-            }*/
+            }
         }
-		/*
+		
 		public override void UpdateMusic(ref int music, ref MusicPriority priority)
         {
             if (Main.myPlayer != -1 && !Main.gameMenu)
@@ -45,7 +45,7 @@ namespace ZenekAdd
 					priority = BiomeHigh;
                 }
             }
-        }*/
+        }
 		
         public static int ZoneCrystalMinesTiles = 0;
 
