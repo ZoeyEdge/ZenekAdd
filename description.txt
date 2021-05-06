@@ -1,0 +1,30 @@
+A rather small content adding mod for terraria aimed to add to some of places that I think were left forgotten, 
+so there's plenty of content everywhere and anywhere.
+
+Creator:
+Zenek
+
+Music:
+Khaar's Theme - The Battle Cats | Evangelion Battle #4
+The BOAR God's Theme - Octopath Traveler | The One They Call the Witch
+A.G.C.'s Theme - Octopath Traveler | Decisive Battle II [8-Bit; VRC6]
+Stellar Jellyfish Theme - Touhou 15 | Pierrot of the Star-Spangled Banner
+Candior Theme - Skeleton Boomerang | Dead Sea (Coast Stage)
+??? Biome Theme - Iconoclasts | Blessed Creations (Bastion)
+
+Thanks to:
+Dave 
+Azzy
+Mort
+Mageu
+Bartwk
+
+for being helpful and boosting my morale!
+
+ExampleMod and the whole TModLoader team for teaching me how to made all of this!
+Random 2 year ago forum posts that helped me fix stuff!
+Cheatsheet/Hero's Mod/Modder's Toolkit, helped a lot with testing!
+Antiaris for teaching me how to increase sentry slots!
+
+Version 1.0 - Release
+It's out!
