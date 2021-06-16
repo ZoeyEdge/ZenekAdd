@@ -26,7 +26,7 @@ namespace ZenekAdd.NPCs.Enemies.Bosses
 			aiType = NPCID.BigMimicCrimson; // for now
 			npc.HitSound = SoundID.NPCHit25;
 			npc.DeathSound = SoundID.NPCDeath28;
-			//music = mod.GetSoundSlot(SoundType.Music, "Sounds/Music/JellyfishTheme");
+			music = mod.GetSoundSlot(SoundType.Music, "Sounds/Music/JellyfishTheme");
 		}
 		
 		public override void NPCLoot()

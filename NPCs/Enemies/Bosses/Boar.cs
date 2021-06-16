@@ -25,7 +25,7 @@ namespace ZenekAdd.NPCs.Enemies.Bosses
 			npc.aiStyle = 69;
 			npc.HitSound = SoundID.NPCHit14;
 			npc.DeathSound = SoundID.NPCDeath20;
-			//music = mod.GetSoundSlot(SoundType.Music, "Sounds/Music/BoarTheme");
+			music = mod.GetSoundSlot(SoundType.Music, "Sounds/Music/BoarTheme");
 		}
 		
 		public override void NPCLoot()

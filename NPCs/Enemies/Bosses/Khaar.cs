@@ -16,7 +16,7 @@ namespace ZenekAdd.NPCs.Enemies.Bosses
 			npc.lavaImmune = true;
 			npc.noGravity = true;
 			npc.lifeMax = 5500;
-			//music = mod.GetSoundSlot(SoundType.Music, "Sounds/Music/KhaarTheme");
+			music = mod.GetSoundSlot(SoundType.Music, "Sounds/Music/KhaarTheme");
 			//bossBag = ModContent.ItemType<KhaarTreasureBag>(); DOESNT FUCKIN WORK
 		}
 
