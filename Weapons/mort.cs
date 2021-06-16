@@ -27,14 +27,5 @@ namespace ZenekAdd.Items.Weapons
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
 		}
-
-		public override void AddRecipes() 
-		{
-			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.DirtBlock, 2);
-			recipe.AddTile(TileID.WorkBenches);
-			recipe.SetResult(this);
-			recipe.AddRecipe();
-		}
 	}
 }

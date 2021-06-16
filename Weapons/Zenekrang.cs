@@ -14,7 +14,7 @@ namespace ZenekAdd.Items.Weapons
 
 		public override void SetDefaults() 
 		{
-			item.damage = 16;
+			item.damage = 14;
 			item.melee = true;
 			item.noMelee = true;
 			item.noUseGraphic = true;
