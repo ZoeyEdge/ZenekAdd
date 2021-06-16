@@ -25,6 +25,12 @@ Random 2 year ago forum posts that helped me fix stuff!
 Cheatsheet/Hero's Mod/Modder's Toolkit, helped a lot with testing!
 Antiaris for teaching me how to increase sentry slots!
 
+Version 1.0.3 - Whoopsie
+Mort [joke weapon] is no longer craftable using dirt
+Antago sword is no longer craftable using dirt
+Leaf minion, platinium drone and friendly probe no longer glow in the dark 
+Zenekrang now deals 14 damage instead of 16
+
 Version 1.0.2 - Music
 Re-added custom music apart from Candior's custom music to save space
 
