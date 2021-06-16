@@ -217,9 +217,7 @@ namespace ZenekAdd.Projectiles.Minions
 					projectile.frame = 0;
 				}
 			}
-
-			// Some visuals here
-			Lighting.AddLight(projectile.Center, Color.White.ToVector3() * 0.78f);
+			
 			#endregion
 		}
 	}
